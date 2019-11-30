@@ -1,0 +1,14 @@
+/* estilo para todos los elementos del tipo p*/
+p {
+    color: darkblue;
+    background-color: crimson;
+}
+
+#idParrafo2 {
+    color: lightblue;
+}
+
+.elegante {
+    background-color: pink;
+    color:blue;
+}
